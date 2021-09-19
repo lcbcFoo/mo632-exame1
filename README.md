@@ -13,7 +13,8 @@ Time: sequential-time.txt
 
 Plot:
 
-![plot optimized](./measurements-plot-optimized-parallel.png)
+![plot serial](./measurements-plot-serial.png)
+
 
 ## Second scenario - Optimized Parallel
 Raw: measurements-optimized.pkl
@@ -22,4 +23,4 @@ Time: optimized-time.txt
 
 Plot:
 
-![plot optimized](./measurements-plot-seral.png)
+![plot optimized](./measurements-plot-optimized-parallel.png)
